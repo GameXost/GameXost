@@ -10,4 +10,7 @@
 ---
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GameXost&theme=github_dark)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=GameXost&color=blue&style=flat&label=Profile+Views)
