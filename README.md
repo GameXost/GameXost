@@ -18,11 +18,6 @@
 
 ---
 
-## 🕒 Commits по времени суток
-
-![Commits by Time](https://raw.githubusercontent.com/GameXost/GameXost/main/profile-3d-contrib/profile-night-rainbow.svg)
-
----
 
 ## 📅 Commits по дням недели
 
