@@ -5,6 +5,9 @@
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GameXost&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GameXost&theme=dark&hide_border=true)
 
 ---
